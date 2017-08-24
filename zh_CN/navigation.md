@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# 微库
 
 
 <!--
@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](readable)
 
 
 <!--
@@ -19,8 +19,17 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
-[Download](pages/download.md)
+[区块链]()
+
+  * # 比特币
+  * [白皮书](pages/bitcoin-whitepaper.md)
+  - - - -
+  * # 以太坊
+  * [白皮书](pages/ethereum-whitepaper.md)
+  * [核心概念](pages/ethereum-core.md)
+
+[工具](pages/tools.md)
+[关于](pages/about.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
