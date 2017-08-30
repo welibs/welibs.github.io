@@ -11,6 +11,8 @@
 
 [以太坊核心概念](pages/ethereum-core.md)
 
+[以太坊的账户、交易及Gas](pages/etherenum-account-transaction-gas.md)
+
 ## 书籍
 
 敬请期待......
